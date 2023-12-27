@@ -8,6 +8,7 @@ request.send();
 request.onload = () => {
 
     const data = JSON.parse(request.response);
+    
     for(let ind = 0; ind < data.length; ind++){
        
         const output = data[ind].capital + ' ' + data[ind].region + ' ' + data[ind].subregion + ' ' + data[ind].population;
