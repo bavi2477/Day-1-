@@ -1,6 +1,6 @@
 # Day-3-Task
 
-## This repository contains the three programs using object and XMLHttpRequest.
+## This Repository contains the three programs using Object and XMLHttpRequest.
 
 ### There are three documents in this repository namely,
 
